@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>cross.png</file>
+        <file>white.png</file>
+        <file>wincross.png</file>
+        <file>winzero.png</file>
+        <file>zero.png</file>
+    </qresource>
+</RCC>
